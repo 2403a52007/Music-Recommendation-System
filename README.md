@@ -14,4 +14,4 @@ This is a Spotify-style Music Recommendation System built using Machine Learning
 - Streamlit
 
 ## ▶️ Run Locally
-streamlit run app.py
+https://music-recommendation-system-gst3xqr38hwxfpgmgatjgv.streamlit.app/
