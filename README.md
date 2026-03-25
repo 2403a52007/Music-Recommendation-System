@@ -15,11 +15,11 @@ It uses Natural Language Processing (NLP) and similarity metrics to identify and
 
 ✨ Key Features
 
-🎧 Personalized song recommendations
-🎨 Spotify-like modern UI
-⚡ Fast and interactive web application
-🧠 Machine Learning-based similarity model
-📊 Simple and scalable dataset handling
+- 🎧 Personalized song recommendations
+- 🎨 Spotify-like modern UI
+- ⚡ Fast and interactive web application
+- 🧠 Machine Learning-based similarity model
+- 📊 Simple and scalable dataset handling
 
 🚀 Deployment
 The application is deployed using Streamlit Cloud, enabling direct access via a web browser without any setup.
