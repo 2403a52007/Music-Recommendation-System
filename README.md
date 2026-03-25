@@ -3,15 +3,18 @@
 This is a Spotify-style Music Recommendation System built using Machine Learning and Streamlit.
 
 ## 🚀 Features
+
 - Song recommendation based on similarity
 - Clean Spotify-like UI
 - Easy to use
 
 📖 Overview
+
 This project recommends songs by analyzing features like artist and genre.
 It uses Natural Language Processing (NLP) and similarity metrics to identify and suggest songs that are most similar to the selected track.
 
 ✨ Key Features
+
 🎧 Personalized song recommendations
 🎨 Spotify-like modern UI
 ⚡ Fast and interactive web application
